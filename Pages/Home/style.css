@@ -10,10 +10,10 @@
 
 @font-face {
     font-family: sf_pro_heavy;
-    src: url(../../Fonts/SF-Pro-Display-Heavy.otf);
+    src: url(../../Fonts/SF-Pro-Display-Black.otf);
 }
 
-.txt-reg{
+.txt_reg{
     font-family: sf_pro_medium;
 }
 
